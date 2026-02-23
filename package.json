@@ -1,0 +1,16 @@
+{
+  "name": "ping-widget",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^40.4.1",
+    "electron-reload": "^2.0.0-alpha.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
